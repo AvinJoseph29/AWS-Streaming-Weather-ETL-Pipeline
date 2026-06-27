@@ -50,7 +50,7 @@ This project implements a **real-time weather data pipeline** that:
 ## 🏗️ Architecture
 
 
-<img width="1024" height="565" alt="image" src="https://github.com/user-attachments/assets/124caabd-fd7f-4d90-991a-af0b6f97e5c6" />
+![Uploading image.png…]()
 
 
 ### Data Flow:
