@@ -50,7 +50,7 @@ This project implements a **real-time weather data pipeline** that:
 ## 🏗️ Architecture
 
 
-<img width="1682" height="845" alt="aws weather data pipeline architecture" src="https://github.com/user-attachments/assets/f044ef10-db8e-4571-96c1-6686e77e04b0" />
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/681f89b7-c55f-4d43-8870-efc34437bcd7" />
 
 
 ### Data Flow:
